@@ -1,7 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     Font-size: 15px;
-    height: max-content;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
